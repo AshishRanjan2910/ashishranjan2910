@@ -1,6 +1,5 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashish
 ![profile count](https://komarev.com/ghpvc/?username=AshishRanjan2910&color=red)&nbsp;
-[![GitHub kanmaytacker](https://img.shields.io/github/followers/AshishRanjan2910?label=follow&style=social)](https://github.com/AshishRanjan2910)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 

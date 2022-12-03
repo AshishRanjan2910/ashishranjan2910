@@ -1,5 +1,7 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ashish
+![version :04.12.2022](https://img.shields.io/badge/version-04.12.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AshishRanjan2910&color=red)&nbsp;
+[![GitHub AshishRanjan2910](https://img.shields.io/github/followers/AshishRanjan2910?label=follow&style=social)](https://github.com/AshishRanjan2910)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 

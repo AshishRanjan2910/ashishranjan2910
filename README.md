@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Cent OS-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SaaS-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SaaS-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)

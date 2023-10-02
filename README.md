@@ -7,12 +7,12 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Software Engineer who has deep interest for developing and assuring efficient and scalable system design and internal testing.\
-💡 &nbsp;Check my portfolio [here](https://surfwithranjan.netlify.app/).\
 🎓 &nbsp;I'm an alumnus of [IIT (ISM) DHANBAD](https://www.iitism.ac.in/iitismnew/). A proud ISM Bhaukali :D \
 🎓 &nbsp;I'm currently a software developer at the [Beehyv](https://www.beehyv.com/). \
 🌱 &nbsp;The software technologies fascinates me and you had me at exploring computer sciences.\
 🌱 &nbsp;The data, kernels and sciences are taking up the advancements and so are we.\
-✉️ &nbsp;You can email me at kushagra9572233@gmail.com.
+✉️ &nbsp;You can email me at kushagra9572233@gmail.com.\
+💼 &nbsp;Check my portfolio [here](https://surfwithranjan.netlify.app/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
